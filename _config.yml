@@ -1,1 +1,13 @@
-theme: \n title: \n description
+title: KUcyans – Resilience
+description: Notes on research & projects
+url: "https://resilience.com"   # keep your CNAME working
+remote_theme: LeNPaul/Millennial
+
+# Optional metadata shown by many themes:
+author:
+  name: KUcyans
+  email: cyan.jo@proton.me
+
+# If GitHub Pages complains about plugins locally, you can add:
+plugins:
+  - jekyll-remote-theme
