@@ -1,4 +1,3 @@
-Informer
 ---
 layout: post
 title: "Informer"
